@@ -3452,7 +3452,7 @@ body {
 
 @media screen and (max-width: 736px) {
   #menu .close {
-    height: 4em;
+    height: 10em;
     line-height: 4em;
   }
 }
