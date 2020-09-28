@@ -38,14 +38,12 @@
         
         <!-- Form -->
         <section>
-          <form method="POST" name="donate" data-netlify="true">
+          <form method="POST" name="donate" data-netlify="true" action="files/success.htm">
             <div class="row uniform 50%">
               <div class="6u 12u$(xsmall)">
                 <input
                   type="text"
                   name="name"
-                  id="name"
-                  value=""
                   placeholder="Your full name"
                 />
               </div>
@@ -53,8 +51,6 @@
                 <input
                   type="text"
                   name="phone"
-                  id="phone"
-                  value=""
                   placeholder="Your phone number"
                 />
               </div>
@@ -62,24 +58,19 @@
                 <input
                   type="text"
                   name="donation"
-                  id="donation"
-                  value=""
                   placeholder="Describe what you are donating"
                 />
               </div>
               <div class="6u$ 12u$(xsmall)">
                 <input
                   type="text"
-                  name="phone"
-                  id="phone"
-                  value=""
+                  name="time"
                   placeholder="Date and time to collect"
                 />
               </div>
               <div class="12u$">
                 <textarea
                   name="address"
-                  id="address"
                   placeholder="Enter your address with pin-code"
                   rows="3"
                 ></textarea>
