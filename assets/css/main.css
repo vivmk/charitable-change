@@ -3330,12 +3330,12 @@ body {
 
 @media screen and (max-width: 980px) {
   body {
-    padding-top: 66px;
+    padding-top: 60px;
   }
 
   #header {
-    height: 66px;
-    line-height: 66px;
+    height: 60px;
+    line-height: 60px;
   }
 
   #header .logo {
