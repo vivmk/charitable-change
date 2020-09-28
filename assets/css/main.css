@@ -3334,7 +3334,7 @@ body {
   }
 
   #header {
-    height: 44px;
+    height: 88px;
     line-height: 44px;
   }
 
@@ -3452,7 +3452,7 @@ body {
 
 @media screen and (max-width: 736px) {
   #menu .close {
-    height: 10em;
+    height: 4em;
     line-height: 4em;
   }
 }
