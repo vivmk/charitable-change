@@ -2113,7 +2113,7 @@ input[type="reset"].alt.icon:before,
 input[type="button"].alt.icon:before,
 button.alt.icon:before,
 .button.alt.icon:before {
-  color: #bbb;
+  color: #828282;
 }
 
 input[type="submit"].special,
@@ -2360,23 +2360,23 @@ input[type="radio"]:focus + label:before {
 }
 
 ::-webkit-input-placeholder {
-  color: #bbb !important;
+  color: #828282 !important;
 }
 
 :-moz-placeholder {
-  color: #bbb !important;
+  color: #828282 !important;
 }
 
 ::-moz-placeholder {
-  color: #bbb !important;
+  color: #828282 !important;
 }
 
 :-ms-input-placeholder {
-  color: #bbb !important;
+  color: #828282 !important;
 }
 
 .formerize-placeholder {
-  color: #bbb !important;
+  color: #828282 !important;
 }
 
 /* Icon */
@@ -2685,7 +2685,7 @@ header h6 + p {
 }
 
 header p {
-  color: #bbb;
+  color: #828282;
 }
 
 /* Table */
@@ -2888,7 +2888,7 @@ table.alt tbody tr td {
 .wrapper.style1 input[type="button"].alt.icon:before,
 .wrapper.style1 button.alt.icon:before,
 .wrapper.style1 .button.alt.icon:before {
-  color: #bbb;
+  color: #828282;
 }
 
 .wrapper.style1 input[type="submit"].special,
@@ -2951,23 +2951,23 @@ table.alt tbody tr td {
 }
 
 .wrapper.style1 ::-webkit-input-placeholder {
-  color: #bbb !important;
+  color: #828282 !important;
 }
 
 .wrapper.style1 :-moz-placeholder {
-  color: #bbb !important;
+  color: #828282 !important;
 }
 
 .wrapper.style1 ::-moz-placeholder {
-  color: #bbb !important;
+  color: #828282 !important;
 }
 
 .wrapper.style1 :-ms-input-placeholder {
-  color: #bbb !important;
+  color: #828282 !important;
 }
 
 .wrapper.style1 .formerize-placeholder {
-  color: #bbb !important;
+  color: #828282 !important;
 }
 
 .wrapper.style1 ul.alt li {
@@ -2975,7 +2975,7 @@ table.alt tbody tr td {
 }
 
 .wrapper.style1 header p {
-  color: #bbb;
+  color: #828282;
 }
 
 .wrapper.style1 table tbody tr {
@@ -3104,7 +3104,7 @@ table.alt tbody tr td {
 .wrapper.style2 input[type="button"].alt.icon:before,
 .wrapper.style2 button.alt.icon:before,
 .wrapper.style2 .button.alt.icon:before {
-  color: #bbb;
+  color: #828282;
 }
 
 .wrapper.style2 input[type="submit"].special,
@@ -3167,23 +3167,23 @@ table.alt tbody tr td {
 }
 
 .wrapper.style2 ::-webkit-input-placeholder {
-  color: #bbb !important;
+  color: #828282 !important;
 }
 
 .wrapper.style2 :-moz-placeholder {
-  color: #bbb !important;
+  color: #828282 !important;
 }
 
 .wrapper.style2 ::-moz-placeholder {
-  color: #bbb !important;
+  color: #828282 !important;
 }
 
 .wrapper.style2 :-ms-input-placeholder {
-  color: #bbb !important;
+  color: #828282 !important;
 }
 
 .wrapper.style2 .formerize-placeholder {
-  color: #bbb !important;
+  color: #828282 !important;
 }
 
 .wrapper.style2 ul.alt li {
@@ -3191,7 +3191,7 @@ table.alt tbody tr td {
 }
 
 .wrapper.style2 header p {
-  color: #bbb;
+  color: #828282;
 }
 
 .wrapper.style2 table tbody tr {
@@ -3865,7 +3865,7 @@ body.is-ie .post {
 
 .post .content .postnav .prev.disabled,
 .post .content .postnav .next.disabled {
-  color: #bbb;
+  color: #828282;
   pointer-events: none;
 }
 
@@ -4030,7 +4030,7 @@ body.is-ie .post {
 .post.style1 input[type="button"].alt.icon:before,
 .post.style1 button.alt.icon:before,
 .post.style1 .button.alt.icon:before {
-  color: #bbb;
+  color: #828282;
 }
 
 .post.style1 input[type="submit"].special,
@@ -4263,7 +4263,7 @@ body.is-ie .post {
 .post.style2 input[type="button"].alt.icon:before,
 .post.style2 button.alt.icon:before,
 .post.style2 .button.alt.icon:before {
-  color: #bbb;
+  color: #828282;
 }
 
 .post.style2 input[type="submit"].special,
@@ -4512,7 +4512,7 @@ body.is-ie .post {
 .post.style3 input[type="button"].alt.icon:before,
 .post.style3 button.alt.icon:before,
 .post.style3 .button.alt.icon:before {
-  color: #bbb;
+  color: #828282;
 }
 
 .post.style3 input[type="submit"].special,
